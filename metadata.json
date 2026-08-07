@@ -1,0 +1,6 @@
+{
+  "name": "Product Lens",
+  "description": "Capture product photos with beautiful blurred glassmorphism detail overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
